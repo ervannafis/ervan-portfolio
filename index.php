@@ -97,7 +97,7 @@
         <div class="row">
           <div class="col-md mb-4">
             <div class="card">
-              <img class="card-img-top" src="kelapa.png" alt="Card image cap">
+              <img class="card-img-top" src="https://raw.githubusercontent.com/ervannafis/ervannafis.github.io/master/kelapa.pngg" alt="Card image cap">
               <div class="card-body">
                 <h3>Project UAS</h3>
                 <p class="card-text">Aplikasi Penjualan Buah Kelapa</p>
